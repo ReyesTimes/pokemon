@@ -12,7 +12,7 @@
                 Comienza tu aventura <strong>seleccionado</strong> un Pokemon.
             </p>
             <p>
-                No olvides capturarlos a todos, son <strong>150 Pokemon</strong>.
+                No olvides capturarlos a todos, son <strong>151 Pokemon</strong>.
             </p>
         </div>
         <div class="pokemon-container" v-if="pokemon.id">
